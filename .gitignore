@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv*/
+data/
+outputs/
+beer_50000.json
